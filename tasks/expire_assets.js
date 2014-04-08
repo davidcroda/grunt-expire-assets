@@ -28,7 +28,6 @@ module.exports = function (grunt) {
     // Iterate over all specified file groups.
     this.files.forEach(
       function (f) {
-        console.log(f.src);
         var src = f.src
           .map(utils.parseBase)
           .filter(utils.checkFile)
