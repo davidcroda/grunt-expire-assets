@@ -1,7 +1,7 @@
 {
   "name": "grunt-expire-assets",
   "description": "",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/Respage/grunt-expire-images",
   "author": {
     "name": "David Roda",
